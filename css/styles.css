@@ -1,0 +1,16 @@
+h1 {
+  text-align: left;
+  color: green;
+  font-family: Segoe UI;
+}
+
+h2 {
+  font-weight: bolder;
+  font-style: italic;
+  color: red;
+}
+
+li {
+  font-style: italic;
+  color: gray;
+}
