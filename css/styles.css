@@ -1,3 +1,11 @@
+.dark-background {
+  background-color: #555;
+}
+
+.light-background {
+  background-color: #fff;
+}
+
 h1 {
   text-align: left;
   color: green;
